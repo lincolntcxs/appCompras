@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760368685786",
+    "project_id": "listacompra-bafe8",
+    "storage_bucket": "listacompra-bafe8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760368685786:android:61370c868a5ff59c9cfbe3",
+        "android_client_info": {
+          "package_name": "com.listaCompras.reo4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760368685786-ffpffek54vlacgnff14dn7gum2t48f1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJtzHoI8SaAmNOqY0I8usdeZb_hJEunng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760368685786-ffpffek54vlacgnff14dn7gum2t48f1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
